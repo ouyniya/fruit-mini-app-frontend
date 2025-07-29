@@ -57,6 +57,6 @@ export const fruitSchema = z.object({
     .nonnegative({ message: "Amount must be non-negative" }),
 
   unit: z
-    .number({ message: "Unit price must be a number" })
-    .nonnegative({ message: "Unit price must be non-negative" }),
+    .number({ message: "Unit must be a number" })
+    .nonnegative({ message: "Unit must be non-negative" }),
 });

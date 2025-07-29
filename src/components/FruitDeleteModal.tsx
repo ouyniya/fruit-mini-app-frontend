@@ -37,7 +37,7 @@ const FruitDeleteModal = ({
             <strong>Amount:</strong> {selectedFruit.amount.toFixed(6)}
           </p>
           <p>
-            <strong>Unit Price:</strong> {selectedFruit.unit.toFixed(0)}
+            <strong>Unit:</strong> {selectedFruit.unit.toFixed(0)}
           </p>
           <p>
             <strong>Total:</strong>{" "}

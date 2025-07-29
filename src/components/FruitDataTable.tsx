@@ -288,7 +288,7 @@ const FruitDataTable = ({
                         Amount
                       </th>
                       <th className="w-1/7 px-6 py-3 text-xs font-medium uppercase tracking-wider text-right">
-                        Unit Price
+                        Unit
                       </th>
                       <th className="w-1/7 px-6 py-3 text-xs font-medium uppercase tracking-wider text-right">
                         Total Value

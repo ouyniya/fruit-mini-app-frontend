@@ -101,7 +101,7 @@ const FruitAddModal = ({
           </div>
 
           <div>
-            <label className="block text-sm font-medium mb-1">Unit Price</label>
+            <label className="block text-sm font-medium mb-1">Unit</label>
             <input
               type="number"
               className="w-full border px-3 py-2 rounded"
